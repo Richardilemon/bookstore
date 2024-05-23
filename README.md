@@ -1,2 +1,2 @@
-# tango_with_django
- Tango
+# The django bookstore
+ Tangoing a bookstore using the django framework
